@@ -1,2 +1,5 @@
-# Lwd_Django
-Django项目一：登录注册
+# 项目名称：LwdDjango
+## 需求分析
+- 登录
+- 注册
+- 注销
